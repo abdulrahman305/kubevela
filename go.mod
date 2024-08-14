@@ -20,7 +20,7 @@ require (
 	github.com/ettle/strcase v0.1.1
 	github.com/fatih/color v1.15.0
 	github.com/fluxcd/helm-controller/api v0.32.2
-	github.com/fluxcd/source-controller/api v0.24.4
+	github.com/fluxcd/source-controller/api v0.30.0
 	github.com/form3tech-oss/jwt-go v3.2.5+incompatible
 	github.com/gdamore/tcell/v2 v2.6.0
 	github.com/getkin/kin-openapi v0.118.0
@@ -149,7 +149,7 @@ require (
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d // indirect
 	github.com/fatih/camelcase v1.0.0 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
-	github.com/fluxcd/pkg/apis/acl v0.0.3 // indirect
+	github.com/fluxcd/pkg/apis/acl v0.1.0 // indirect
 	github.com/fluxcd/pkg/apis/kustomize v1.0.0 // indirect
 	github.com/fluxcd/pkg/apis/meta v1.0.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
